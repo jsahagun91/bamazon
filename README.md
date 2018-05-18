@@ -6,6 +6,7 @@ User then is updated with price.
 Database inventory is updated and displayed.
 
 # VIDEO
+https://github.com/jsahagun91/bamazon/blob/master/img/bamazon.mov
 
 ### Tools Used
 
