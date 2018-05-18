@@ -8,6 +8,10 @@ Database inventory is updated and displayed.
 # VIDEO
 https://github.com/jsahagun91/bamazon/blob/master/img/bamazon.mov
 
+or 
+
+https://www.dropbox.com/s/chdck8cl41bylqn/bamazon.mov?dl=0
+
 ### Tools Used
 
 - Node
